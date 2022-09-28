@@ -4,3 +4,14 @@
     text-align: center;
     background-size:cover;
 }
+th, td{
+    padding: 15px;
+}
+img{
+    height:200px;
+    width:200px;
+    margin-right: auto;
+    margin-left: auto;
+    float: left;
+    padding: 15px;
+}
